@@ -604,7 +604,6 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
   color: var(--color-high);
   background: var(--color-alert);
   border-radius: 0;
-  box-shadow: 3px 3px 0 var(--color-mid);
 }
 
 .button-14-BFJ {
@@ -658,9 +657,6 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
   animation-duration: 1.5s;
   animation-iteration-count: infinite;
   width: 0%;
-}
-.wrapper-2jXpOf.modeConnected-3IsKId, .wrapper-2jXpOf.modeSelected-346R90, .wrapper-2jXpOf:hover {
-  box-shadow: 0 1px var(--color-low), 0 -1px var(--color-low);
 }
 .wrapper-2jXpOf.modeConnected-3IsKId .mainContent-u_9PKf:before, .wrapper-2jXpOf.modeSelected-346R90 .mainContent-u_9PKf:before, .wrapper-2jXpOf:hover .mainContent-u_9PKf:before {
   width: 100%;
