@@ -760,7 +760,7 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
 }
 
 .username-1A8OIy.clickable-1bVtEA {
-  color: var(--color-low) !important;
+  color: var(--color-low);
 }
 
 .isUnread-3Ef-o9 .content-1o0f9g,
@@ -1292,7 +1292,7 @@ strong {
 }
 
 .username-1A8OIy {
-  color: var(--color-low) !important;
+  color: var(--color-low);
 }
 
 .theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
