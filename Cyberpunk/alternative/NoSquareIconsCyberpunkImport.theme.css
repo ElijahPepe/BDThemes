@@ -1728,3 +1728,7 @@ strong {
 .sampleLink-2NLvZg {
     color: var(--color-low);
 }
+
+.markup-2BOw-j a {
+    color: var(--color-low) !important;
+}
