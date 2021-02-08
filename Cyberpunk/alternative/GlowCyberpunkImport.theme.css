@@ -86,6 +86,7 @@
 
 .theme-dark .emojiAliasPlaceholder-3H_iZA {
   color: var(--color-low);
+  text-shadow: 0 0 0.2em var(--color-low);
 }
 
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse,
@@ -94,6 +95,7 @@
   border-radius: 0;
   border: 2px solid var(--color-low);
   color: var(--color-low);
+  text-shadow: 0 0 0.2em var(--color-low);
 }
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse:hover,
 .input-cIJ7To:hover {
@@ -222,6 +224,7 @@
 
 .bd-switch-checked {
   background-color: var(--color-low);
+  text-shadow: 0 0 0.2em var(--color-low);
 }
 
 .item-26Dhrx {
@@ -1193,6 +1196,7 @@ strong {
 }
 .container-2Pjhx-.selected-aXhQR6, .container-2Pjhx-:hover {
   color: var(--color-alert) !important;
+  text-shadow: 0 0 0.2em var(--color-alert) !important;
 }
 .container-2Pjhx-.selected-aXhQR6 .name-uJV0GL span,
 .container-2Pjhx-.selected-aXhQR6 .activity-2Gy-9S,
@@ -1276,6 +1280,9 @@ strong {
   border-color: transparent;
   background-color: var(--color-low);
   color: var(--color-high);
+}
+.input-2A_zIr {
+  text-shadow: 0 0 0.2em var(--color-low) !important;
 }
 .full-motion .wrapper-2aW0bm:hover .button-1ZiXG9:hover, .full-motion .wrapper-2aW0bm:hover .button-1ZiXG9:active,
 .wrapper-2aW0bm .button-1ZiXG9:hover,
@@ -1736,4 +1743,20 @@ strong {
 
 .markup-2BOw-j a {
     color: var(--color-low) !important;
+    text-shadow: 0 0 0.2em var(--color-low) !important;
+}
+
+.cozy-3raOZG .contents-2mQqc9 {
+    color: var(--color-low) !important;
+    text-shadow: 0 0 0.2em var(--color-low) !important;
+}
+
+.headerText-2sdzFM {
+    color: var(--color-low) !important;
+    text-shadow: 0 0 0.2em var(--color-low) !important;
+}
+
+.nameTag-2IFDfL {
+    color: var(--color-low) !important;
+    text-shadow: 0 0 0.2em var(--color-low) !important;
 }
