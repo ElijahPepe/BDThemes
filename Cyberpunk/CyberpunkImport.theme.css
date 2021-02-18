@@ -746,7 +746,7 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
 .cozyMessage-3V1Y8y .header-23xsNx {
   border-radius: 0;
   display: inline-block !important;
-  background: var(--color-high);
+  background: transparent !important;
 }
 
 .full-motion .avatar-1BDn8e.clickable-1bVtEA {
