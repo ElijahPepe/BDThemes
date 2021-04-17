@@ -128,6 +128,9 @@
   background-color: var(--color-low);
   color: var(--color-high);
 }
+.content-s2SEQO a {
+    color: var(--link);
+}
 .bd-modal-wrapper .footer button:hover, .bd-modal-wrapper .footer button:active,
 .theme-dark .button-2DhvE9:hover,
 .theme-dark .button-2DhvE9:active,
