@@ -89,6 +89,10 @@
   text-shadow: 0 0 0.2em var(--color-low);
 }
 
+.content-s2SEQO a {
+    color: var(--link);
+}
+
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse,
 .input-cIJ7To {
   background-color: var(--color-high);
